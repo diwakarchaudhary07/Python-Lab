@@ -1,5 +1,6 @@
 # 1.	Write a program to find whether a number is a prime number.
 
+
 def is_prime(n):
     if n <= 1:
         return False
